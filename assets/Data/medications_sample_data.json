@@ -2,7 +2,7 @@
  "data" : [{
   "name" : "Simvastatin",
   "drug_class" : "Lipotropics",
-  "brand" : "Shanghai Pharmaceuticals Holding",
+  "brand" : "Shanghai Pvt. Ltd.",
   "code" : "123456",
   "type" : "Generice",
   "strength" : "500mg",
@@ -22,7 +22,7 @@
   {
    "name" : "Savella",
    "drug_class" : "Lipotropics",
-   "brand" : "Shanghai Pharmaceuticals Holding",
+   "brand" : "Shanghai Pvt. Ltd.",
    "code" : "123456",
    "type" : "Generice",
    "strength" : "500mg",
@@ -42,7 +42,7 @@
   {
    "name" : "Dolochoster",
    "drug_class" : "Lipotropics",
-   "brand" : "Shanghai Pharmaceuticals Holding",
+   "brand" : "Shanghai Pvt. Ltd.",
    "code" : "123456",
    "type" : "Generice",
    "strength" : "500mg",
@@ -63,7 +63,7 @@
   {
    "name" : "Crester",
    "drug_class" : "Lipotropics",
-   "brand" : "Shanghai Pharmaceuticals Holding",
+   "brand" : "Shanghai Pvt. Ltd.",
    "code" : "123456",
    "type" : "Generice",
    "strength" : "500mg",
@@ -83,7 +83,7 @@
   {
    "name" : "Ciplamicin",
    "drug_class" : "Lipotropics",
-   "brand" : "Shanghai Pharmaceuticals Holding",
+   "brand" : "Shanghai Pvt. Ltd.",
    "code" : "123456",
    "type" : "Generice",
    "strength" : "500mg",
@@ -103,7 +103,7 @@
   {
    "name" : "Crester",
    "drug_class" : "Lipotropics",
-   "brand" : "Shanghai Pharmaceuticals Holding",
+   "brand" : "Shanghai Pvt. Ltd.",
    "code" : "123456",
    "type" : "Generice",
    "strength" : "500mg",
@@ -123,7 +123,7 @@
   {
    "name" : "Simvastatin",
    "drug_class" : "Lipotropics",
-   "brand" : "Shanghai Pharmaceuticals Holding",
+   "brand" : "Shanghai Pvt. Ltd.",
    "code" : "123456",
    "type" : "Generice",
    "strength" : "500mg",
@@ -143,7 +143,7 @@
   {
    "name" : "Simvastatin",
    "drug_class" : "Lipotropics",
-   "brand" : "Shanghai Pharmaceuticals Holding",
+   "brand" : "Shanghai Pvt. Ltd.",
    "code" : "123456",
    "type" : "Generice",
    "strength" : "500mg",
@@ -163,7 +163,7 @@
   {
    "name" : "Simvastatin",
    "drug_class" : "Lipotropics",
-   "brand" : "Shanghai Pharmaceuticals Holding",
+   "brand" : "Shanghai Pvt. Ltd.",
    "code" : "123456",
    "type" : "Generice",
    "strength" : "500mg",
@@ -183,7 +183,7 @@
   {
    "name" : "Simvastatin",
    "drug_class" : "Lipotropics",
-   "brand" : "Shanghai Pharmaceuticals Holding",
+   "brand" : "Shanghai Pvt. Ltd.",
    "code" : "123456",
    "type" : "Generice",
    "strength" : "500mg",
